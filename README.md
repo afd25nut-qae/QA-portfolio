@@ -27,12 +27,14 @@ Detail-oriented QA Engineer in training with hands-on experience in **manual API
 
 ---
 
-## 🔧 Tools
+## 🔧 Tools & Technologies
 
-| Testing | Documentation | Other |
-|--------|--------------|-------|
-| Postman | Jira | Google Sheets |
-| Chrome DevTools | draw.io | Browser DevTools |
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?style=for-the-badge&logo=postman)
+![Jira](https://img.shields.io/badge/Jira-Bug%20Tracking-blue?style=for-the-badge&logo=jira)
+![Chrome](https://img.shields.io/badge/Chrome-UI%20Testing-green?style=for-the-badge&logo=google-chrome)
+![Firefox](https://img.shields.io/badge/Firefox-Cross--Browser%20Testing-orange?style=for-the-badge&logo=firefox)
+![draw.io](https://img.shields.io/badge/draw.io-Diagrams-lightgrey?style=for-the-badge)
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-QA-important?style=for-the-badge)
 
 ---
 
