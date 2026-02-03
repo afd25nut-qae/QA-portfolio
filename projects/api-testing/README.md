@@ -25,9 +25,9 @@ This project focused on manual testing of REST API endpoints related to delivery
 Testing helped ensure that delivery-related features met functional requirements and that issues were identified before release.
 
 ## 📎 Evidence
-- API Test Cases  
-- Bug Reports  
-- Request/Response validations  
 
-(Evidence files can be found in the **evidence** folder.)
+Supporting materials for this project can be found here:
+
+📂 **[View Evidence](evidence/)**
+
 
