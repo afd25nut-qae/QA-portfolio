@@ -27,8 +27,8 @@ This project focused on functional and UI testing of a web application, particul
 Identified and documented bugs related to booking flows, payment methods, and form validations, improving overall usability and reliability.
 
 ## 📎 Evidence
-- Test Cases  
-- Bug Reports  
-- UI validation notes  
 
-(Evidence files can be found in the **evidence** folder.)
+Supporting materials for this project can be found here:
+
+📂 **[View Evidence](evidence/)**
+
