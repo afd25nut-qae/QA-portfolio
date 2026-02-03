@@ -25,8 +25,7 @@ This project focused on improving test documentation and requirement understandi
 Improved clarity of requirements and strengthened the quality and structure of test documentation for the car-sharing feature.
 
 ## 📎 Evidence
-- Flow diagrams  
-- Mind maps  
-- Test case documentation  
 
-(Evidence files can be found in the **evidence** folder.)
+Supporting materials for this project can be found here:
+
+📂 **[View Evidence](evidence/)**
